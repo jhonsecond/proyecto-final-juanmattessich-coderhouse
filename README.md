@@ -1,8 +1,5 @@
 # Shopping-Cart
 Es un carrito de compras hecho con ReactJS para el curso de Coderhouse
-
-Check the certificate on the [Coderhouse page](https://www.coderhouse.com/certificados/6369c3259853ea000e866d2a)
-
 # Que utilicé:
 
 * React
@@ -22,4 +19,3 @@ Check the certificate on the [Coderhouse page](https://www.coderhouse.com/certif
 * Completar el checkout para recibir el código de la compra por e-mail (Para esta demo el checlout es un simple form).
 * Para esta versión no se utilizó local storage por lo tanto el carrito no es persistente.
 * Para esta versión falta la optimización para ser 100% responsive.
-
